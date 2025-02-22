@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ad75760b-a7fe-44a2-960d-d599a08ec48d}">
+		<property name="assetPath">
+			<value>tvnosignal.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.7178004535147391</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{44dab04b-d885-49d3-b23b-c78dd0a1cc20}</destination>
+		</relationship>
+	</object>
+</objects>

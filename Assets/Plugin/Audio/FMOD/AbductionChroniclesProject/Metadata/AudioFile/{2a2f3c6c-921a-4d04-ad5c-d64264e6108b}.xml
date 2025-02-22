@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2a2f3c6c-921a-4d04-ad5c-d64264e6108b}">
+		<property name="assetPath">
+			<value>Slow scarry footsteps.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.1074583333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{44dab04b-d885-49d3-b23b-c78dd0a1cc20}</destination>
+		</relationship>
+	</object>
+</objects>

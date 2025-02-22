@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5bc9f6fd-36f9-4d2f-b77b-31ffe6601748}">
+		<property name="assetPath">
+			<value>BlankSound.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.0569387755102042</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{44dab04b-d885-49d3-b23b-c78dd0a1cc20}</destination>
+		</relationship>
+	</object>
+</objects>

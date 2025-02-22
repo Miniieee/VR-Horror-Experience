@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d1047bf6-a5e8-4fad-9c94-3e547b63c62b}">
+		<property name="assetPath">
+			<value>fridgeambient.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>43.731958333333331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{44dab04b-d885-49d3-b23b-c78dd0a1cc20}</destination>
+		</relationship>
+	</object>
+</objects>

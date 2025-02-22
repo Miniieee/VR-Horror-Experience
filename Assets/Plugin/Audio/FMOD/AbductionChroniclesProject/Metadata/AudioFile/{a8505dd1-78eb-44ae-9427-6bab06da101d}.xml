@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a8505dd1-78eb-44ae-9427-6bab06da101d}">
+		<property name="assetPath">
+			<value>LightBloom.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>50.207999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{44dab04b-d885-49d3-b23b-c78dd0a1cc20}</destination>
+		</relationship>
+	</object>
+</objects>
